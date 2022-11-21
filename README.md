@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I’m looking for help with and accountability partner to ease my frontend journey 
+- 🤔 I’m looking for help and accountability partner to ease my frontend journey 
 
 <!--
 **Dhorkasskufo/Dhorkasskufo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
